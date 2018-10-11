@@ -3,7 +3,7 @@
 ## Theme: Factor and figure management
 
 ### Assignment overview
-[<img align ="right" src="https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/plugins/plotly.png" width="400" height="300"/>](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/plugins/plotly.png)
+[<img align ="right" src="https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/plotly.png" width="400" height="300"/>](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/plotly.png)
 
 Goals:
 
@@ -13,7 +13,7 @@ Improve a figure (or make one from scratch), using new knowledge, e.g., control 
 Make a plotly visual.
 Implement visualization design principles.
 
-To my awesome guests to my repo, please visit [howework1](https://github.com/STAT545-UBC-students/hw01-rasiimwe) and [howework2](https://github.com/STAT545-UBC-students/hw02-rasiimwe/blob/master/hw02.md) for a background on the gapminder dataset. In here I show the exploration, manipulation and analysis of the gapminder dataset. [homework3](https://github.com/STAT545-UBC-students/hw03-rasiimwe/blob/master/hw03-rasiimwe.md) will walk you through concepts needed for  data manipulation and exploration using dplyr and the subsequent application of ggplot2 to accomplish data and visualization tasks.
+To my awesome guests to my repo, please visit [howework1](https://github.com/STAT545-UBC-students/hw01-rasiimwe) and [howework2](https://github.com/STAT545-UBC-students/hw02-rasiimwe/blob/master/hw02.md) for a background on the gapminder dataset. In here I show the exploration, manipulation and analysis of the gapminder dataset. [homework3](https://github.com/STAT545-UBC-students/hw03-rasiimwe/blob/master/hw03-rasiimwe.md) will walk you through concepts needed for  data manipulation and exploration using dplyr and the subsequent application of ggplot2 to accomplish data and visualization tasks. [homework5](https://github.com/STAT545-UBC-students/hw04-rasiimwe/blob/master/hw04-rasiimwe.md)
 
 
 ### For this assignment, please visit the following files :point_down::
