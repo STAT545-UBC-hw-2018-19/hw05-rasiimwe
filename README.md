@@ -3,7 +3,7 @@
 ## Theme: Factor and figure management
 
 ### Assignment overview
-[<img align ="right" src="https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/plotly.png" width="400" height="300"/>](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/plotly.png)
+[<img align ="right" src="https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/plotly.gif" width="400" height="300"/>](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/plotly.gif)
 
 Goals:
 
