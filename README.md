@@ -1,4 +1,4 @@
-# STAT545A Homework 4 Repository of Rebecca Asiimwe 
+# STAT545A Homework 5 Repository of Rebecca Asiimwe 
 
 ## Theme: Factor and figure management
 
@@ -22,6 +22,6 @@ To my awesome guests to my repo, please visit [howework1](https://github.com/STA
 |----------------|------------|
 |[Link to homework5](http://stat545.com/Classroom/assignments/hw05/hw05.html)|This file contains homework 5 tasks and their descriptions|
 |[README.md](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/README.md)|This readme.md file provides an overview of the ghist of this repo and provides useful pointers to key files in my homework-5 repo. Herein, you will also find links to past files that provide an introduction to data exploration and analysis |
-|[hw04-rasiimwe.md](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/hw05-rasiimwe.md)| |
+|[hw05-rasiimwe.md](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/hw05-rasiimwe.md)| |
 
 
