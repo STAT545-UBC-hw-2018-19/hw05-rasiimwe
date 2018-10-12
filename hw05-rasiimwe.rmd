@@ -18,7 +18,7 @@
 
 
 ### Part 4: Writing figures to file
-> Use ggsave() to explicitly save a plot to file. Then use ![Alt text](/path/to/img.png) to load and embed it in your report. You can play around with various options, such as:
+> Use ggsave() to explicitly save a plot to file. Then use `![Alt text](/path/to/img.png)` to load and embed it in your report. You can play around with various options, such as:
 
 > 1. Arguments of ggsave(), such as width, height, resolution or text scaling.
 > 2. Various graphics devices, e.g. a vector vs. raster format.
