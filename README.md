@@ -8,7 +8,7 @@
 [Factors](https://www.stat.berkeley.edu/~s133/factors.html) are variables that take on a number of different values and are often refered to as categorical variables. Factors in R are stored as a vector of integer values with a corresponding set of character values to use when the factor is displayed. Both numeric and character variables can be made into factors, but a factor's levels will always be character values. The levels of a factor are used when displaying the factor's values and can be changed when creating a factor by passing a vector with the new values through the labels= argument. 
 
 One of the most important uses of factors is in statistical modeling; since categorical variables enter into statistical models differently than continuous variables, storing data as factors insures that the modeling functions will treat such data correctly.
-[<img align ="right" src="https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/Capturex.png" width="200" height="200"/>](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/Capturex.png)
+[<img align ="left" src="https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/Capturex.png" width="200" height="200"/>](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/Capturex.png)
 
 #### Assignment Goals:
 
