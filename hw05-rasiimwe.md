@@ -1,0 +1,46 @@
+STAT545 Homework 5: Factor and figure management
+================
+Rebecca Asiimwe
+2018-10-12
+
+-   [The Assignment](#the-assignment)
+    -   [Part 1: Factor management](#part-1-factor-management)
+    -   [Part 2: File I/O](#part-2-file-io)
+    -   [Part 3: Visualization design](#part-3-visualization-design)
+    -   [Part 4: Writing figures to file](#part-4-writing-figures-to-file)
+    -   [But I want to do more!](#but-i-want-to-do-more)
+
+STAT545 Homework 5: Factor and figure management
+
+The Assignment
+--------------
+
+### Part 1: Factor management
+
+> With the data set of your choice, after ensuring the variable(s) you’re exploring are indeed factors, you are expected to: 1. Drop factor / levels; 2. Reorder levels based on knowledge from data.
+
+### Part 2: File I/O
+
+> Experiment with one or more of write\_csv()/read\_csv() (and/or TSV friends), saveRDS()/readRDS(), dput()/dget(). Create something new, probably by filtering or grouped-summarization of Singer or Gapminder. I highly recommend you fiddle with the factor levels, i.e. make them non-alphabetical (see previous section). Explore whether this survives the round trip of writing to file then reading back in.
+
+### Part 3: Visualization design
+
+> Remake at least one figure or create a new one, in light of something you learned in the recent class meetings about visualization design and color. Maybe juxtapose your first attempt and what you obtained after some time spent working on it. Reflect on the differences. If using Gapminder, you can use the country or continent color scheme that ships with Gapminder. Consult the dimensions listed in All the Graph Things. Then, make a new graph by converting this visual (or another, if you’d like) to a plotly graph. What are some things that plotly makes possible, that are not possible with a regular ggplot2 graph?
+
+### Part 4: Writing figures to file
+
+> Use ggsave() to explicitly save a plot to file. Then use `![Alt text](/path/to/img.png)` to load and embed it in your report. You can play around with various options, such as:
+
+> 1.  Arguments of ggsave(), such as width, height, resolution or text scaling.
+> 2.  Various graphics devices, e.g. a vector vs. raster format.
+> 3.  Explicit provision of the plot object p via ggsave(..., plot = p). Show a situation in which this actually matters.
+
+### But I want to do more!
+
+> Make a deeper exploration of the forcats packages, i.e. try more of the factor level reordering functions.
+
+> Revalue a factor, e.g.:
+
+> **Gapminder version:** Pick a handful of countries, each of which you can associate with a stereotypical food (or any other non-controversial thing … sport? hobby? type of music, art or dance? animal? landscape feature?). Create an excerpt of the Gapminder data, filtered to just these countries. Create a new factor – you pick the name! – by mapping the existing country factor levels to the new levels. Examples: Italy –&gt; wine, Germany –&gt; beer, Japan –&gt; sake. (Austria, Germany) –&gt; German, (Mexico, Spain) –&gt; Spanish, (Portugal, Brazil) –&gt; Portuguese. Let your creativity flourish.
+
+> You could even try to make this process of geolocalization more streamlined: you may want to try and use the separate function from tidyr.

@@ -1,4 +1,13 @@
-# Homework 05: Factor and figure management
+---
+title: "STAT545 Homework 5: Factor and figure management"
+author: "Rebecca Asiimwe"
+date: '2018-10-12'
+output:
+  github_document:
+    toc: yes
+---
+
+STAT545 Homework 5: Factor and figure management
 
 ## The Assignment
 
