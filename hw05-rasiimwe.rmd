@@ -1,5 +1,5 @@
 ---
-title: "STAT545 Homework 5: Factor and figure management"
+title: "STAT545 Homework 5: Factor and Figure Management"
 author: "Rebecca Asiimwe"
 date: '2018-10-12'
 output:

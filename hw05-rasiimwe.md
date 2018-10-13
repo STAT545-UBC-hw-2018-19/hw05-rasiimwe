@@ -1,4 +1,4 @@
-STAT545 Homework 5: Factor and figure management
+STAT545 Homework 5: Factor and Figure Management
 ================
 Rebecca Asiimwe
 2018-10-12
