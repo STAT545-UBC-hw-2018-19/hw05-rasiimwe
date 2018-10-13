@@ -3,17 +3,20 @@ STAT545 Homework 5: Factor and figure management
 Rebecca Asiimwe
 2018-10-12
 
--   [The Assignment](#the-assignment)
-    -   [Part 1: Factor management](#part-1-factor-management)
-    -   [Part 2: File I/O](#part-2-file-io)
-    -   [Part 3: Visualization design](#part-3-visualization-design)
-    -   [Part 4: Writing figures to file](#part-4-writing-figures-to-file)
-    -   [But I want to do more!](#but-i-want-to-do-more)
+-   [Assignment Goals:](#assignment-goals)
+-   [Part 1: Factor management](#part-1-factor-management)
+-   [Part 2: File I/O](#part-2-file-io)
+-   [Part 3: Visualization design](#part-3-visualization-design)
+-   [Part 4: Writing figures to file](#part-4-writing-figures-to-file)
+-   [But I want to do more!](#but-i-want-to-do-more)
 
-STAT545 Homework 5: Factor and figure management
+### Assignment Goals:
 
-The Assignment
---------------
+-   Reorder a factor in a principled way based on the data and demonstrate the effect in arranged data and in figures.
+-   Write some data to file and load it back into R.
+-   Improve a figure (or make one from scratch), using new knowledge, e.g., control the color scheme, use factor levels, smoother mechanics.
+-   Make a plotly visual.
+-   Implement visualization design principles.
 
 ### Part 1: Factor management
 
