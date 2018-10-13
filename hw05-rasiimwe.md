@@ -18,6 +18,16 @@ Rebecca Asiimwe
 -   Make a plotly visual.
 -   Implement visualization design principles.
 
+#### Loading required packages
+
+``` r
+suppressPackageStartupMessages(library(tidyverse)) 
+suppressPackageStartupMessages(library(gapminder))
+suppressPackageStartupMessages(library(ggplot2))
+suppressPackageStartupMessages(library(knitr))
+suppressPackageStartupMessages(library(cowplot))
+```
+
 ### Part 1: Factor management
 
 > With the data set of your choice, after ensuring the variable(s) you’re exploring are indeed factors, you are expected to: 1. Drop factor / levels; 2. Reorder levels based on knowledge from data.
