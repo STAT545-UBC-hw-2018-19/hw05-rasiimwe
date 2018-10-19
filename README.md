@@ -20,7 +20,6 @@
 * Make a plotly visual.
 * Implement visualization design principles.
 
-&nbsp;
 
 To my awesome guests to my repo, please visit [howework1](https://github.com/STAT545-UBC-students/hw01-rasiimwe) and [howework2](https://github.com/STAT545-UBC-students/hw02-rasiimwe/blob/master/hw02.md) for a background on the gapminder dataset. In here I show the exploration, manipulation and analysis of the gapminder dataset. [Homework3](https://github.com/STAT545-UBC-students/hw03-rasiimwe/blob/master/hw03-rasiimwe.md) will walk you through concepts needed for  data manipulation and exploration using dplyr and the subsequent application of ggplot2 to accomplish data and visualization tasks. [Homework4](https://github.com/STAT545-UBC-students/hw04-rasiimwe)explores deeper aspects of data wrangling by working with aggregation and data reshaping to put data in shapes that best fit and support the data analysis tasks at hand by focusing on the usage of functions such as gather(), spread(), mutating joins, filtering joins, set operations and biding datasets.
 
