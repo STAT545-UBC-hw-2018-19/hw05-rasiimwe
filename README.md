@@ -7,6 +7,7 @@
 
 [Factors](https://www.stat.berkeley.edu/~s133/factors.html) are variables that take on a number of different values and are often refered to as categorical variables. Factors in R are stored as a vector of integer values with a corresponding set of character values to use when the factor is displayed. Both numeric and character variables can be made into factors, but a factor's levels will always be character values. The levels of a factor are used when displaying the factor's values and can be changed when creating a factor by passing a vector with the new values through the labels= argument. 
 
+&nbsp;
 
 **One of the most important uses of factors is in statistical modeling;** since categorical variables enter into statistical models differently than continuous variables, storing data as factors insures that the modeling functions will treat such data correctly.
 [<img align ="left" src="https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/Capturex.png" width="200" height="200"/>](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/Plugins/Capturex.png)
@@ -19,7 +20,7 @@
 * Make a plotly visual.
 * Implement visualization design principles.
 
-
+&nbsp;
 
 To my awesome guests to my repo, please visit [howework1](https://github.com/STAT545-UBC-students/hw01-rasiimwe) and [howework2](https://github.com/STAT545-UBC-students/hw02-rasiimwe/blob/master/hw02.md) for a background on the gapminder dataset. In here I show the exploration, manipulation and analysis of the gapminder dataset. [Homework3](https://github.com/STAT545-UBC-students/hw03-rasiimwe/blob/master/hw03-rasiimwe.md) will walk you through concepts needed for  data manipulation and exploration using dplyr and the subsequent application of ggplot2 to accomplish data and visualization tasks. [Homework4](https://github.com/STAT545-UBC-students/hw04-rasiimwe)explores deeper aspects of data wrangling by working with aggregation and data reshaping to put data in shapes that best fit and support the data analysis tasks at hand by focusing on the usage of functions such as gather(), spread(), mutating joins, filtering joins, set operations and biding datasets.
 
