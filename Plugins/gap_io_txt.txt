@@ -1,0 +1,4 @@
+structure(list(continent = structure(c(1L, 3L, 4L, 2L), .Label = c("Africa", 
+"Americas", "Asia", "Europe"), class = "factor"), gdpPercap = c(241.1658765, 
+331, 973.5331948, 1201.637154), gdpPercap1 = c(21951.21176, 42951.65309, 
+49357.19017, 113523.1329)), row.names = c(NA, -4L), class = "data.frame")
