@@ -30,6 +30,6 @@ To my awesome guests to my repo, please visit [howework1](https://github.com/STA
 |----------------|------------|
 |[Link to homework5](http://stat545.com/Classroom/assignments/hw05/hw05.html)|This file contains homework 5 tasks and their descriptions|
 |[README.md](https://github.com/STAT545-UBC-students/hw05-rasiimwe/blob/master/README.md)|This readme.md file provides an overview of the ghist of this repo and provides useful pointers to key files in my homework-5 repo. Herein, are also links to past files that provide an introduction to data exploration and analysis |
-|**[Link to homework-05](https://rasiimwe.github.io/html_render/hw05-rasiimwe.html)**|This html file contains the exploration of factor and figure management concepts. This includes concepts such as reordering factors, improving plot visualizations and working with files, that is, saving and loading objects created with R - by using functions such as `saveRDS()` and `readRDS()`|
+|**[Link to homework-05](https://rasiimwe.github.io/html_render//hw05-rasiimwe.html)**|This html file contains the exploration of factor and figure management concepts. This includes concepts such as reordering factors, improving plot visualizations and working with files, that is, saving and loading objects created with R - by using functions such as `saveRDS()` and `readRDS()`|
 
 
